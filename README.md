@@ -51,6 +51,6 @@ Pravi SSH servis je premješten na **port 22222**.
 
 ```bash
 scripts/install.sh
-scripts/premjesti-pravi-ssh.sh
+scripts/premjestiSsh.sh
 scripts/iptables.sh
-scripts/pokreni-cowrie.sh
+scripts/startCowrie.sh
