@@ -1,5 +1,8 @@
 # honeypotCowrie
 
+<img width="419" height="120" alt="image" src="https://github.com/user-attachments/assets/2f45b866-ac9e-47c6-91ae-efd3ce6be899" />
+
+
 # Cowrie SSH Honeypot na AWS
 
 Ovaj repozitorij opisuje kako postavitiCowrie SSH honeypot
