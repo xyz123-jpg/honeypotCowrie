@@ -17,15 +17,11 @@ Sve aktivnosti su simulirane i sigurne.
 ## Arhitektura
 
 Internet
-  |
-  | TCP 22
-  v
+
 iptables preusmjeravanje
-  |
-  v
+
 Cowrie SSH honeypot (port 2222)
-  |
-  └── Logovi (JSON i tekst)
+Logovi (JSON i tekst)
 
 Pravi SSH servis je premješten na **port 22222**.
 
