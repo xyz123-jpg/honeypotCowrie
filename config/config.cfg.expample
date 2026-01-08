@@ -1,0 +1,14 @@
+[honeypot]
+hostname = svr04
+
+[ssh]
+enabled = true
+listen_endpoints = tcp:2222:interface=0.0.0.0
+version = SSH-2.0-OpenSSH_7.4
+banner = Ubuntu 20.04 LTS
+
+[logging]
+log_json = true
+
+[output_jsonlog]
+enabled = true
