@@ -54,3 +54,8 @@ scripts/install.sh
 scripts/premjestiSsh.sh
 scripts/iptables.sh
 scripts/startCowrie.sh
+```
+## U izradi
+
+  Slanje logova na ELK stack
+
